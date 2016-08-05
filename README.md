@@ -2,7 +2,6 @@
 myfirst
 gjgjg g
 
-lalalallalalal
-=======
+lalalallalal
 liboyuliboyu
 >>>>>>> fea
